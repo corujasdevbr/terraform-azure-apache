@@ -1,5 +1,5 @@
 # terraform-azure-apache
-Script para a criação de uma máquina virtual com acesso externo e apache
+Script para a criação de uma máquina virtual no Azure com acesso externo e apache
 
 Faça um fork deste repositório ou se preferir clone o mesmo.
 
